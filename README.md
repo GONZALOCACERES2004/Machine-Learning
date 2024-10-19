@@ -1,5 +1,6 @@
 # CONCLUSION
-	En este estudio exhaustivo sobre los factores que influyen en los precios de los alojamientos de Airbnb en Madrid, hemos desarrollado y comparado varios modelos predictivos, culminando en un modelo Random Forest optimizado que utiliza las 30 características más relevantes. Este análisis ha proporcionado insights valiosos tanto para los anfitriones como para la plataforma Airbnb.
+
+En este estudio exhaustivo sobre los factores que influyen en los precios de los alojamientos de Airbnb en Madrid, hemos desarrollado y comparado varios modelos predictivos, culminando en un modelo Random Forest optimizado que utiliza las 30 características más relevantes. Este análisis ha proporcionado insights valiosos tanto para los anfitriones como para la plataforma Airbnb.
 
 Principales hallazgos:
 1.	Rendimiento del modelo:
