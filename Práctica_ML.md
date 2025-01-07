@@ -1583,7 +1583,7 @@ for variable in list_categorical_columns: # recorremos las variable categóricas
 
 
     
-![png]([Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_39_0.png](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20categ%C3%B3ricas.png)
+![Variables categóricas](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20categ%C3%B3ricas.png)
     
     
     
