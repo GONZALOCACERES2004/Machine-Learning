@@ -47,22 +47,6 @@ airbnb_data.head(5).T
     
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -445,20 +429,7 @@ airbnb_data.head(5)
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -622,20 +593,7 @@ airbnb_data.describe()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1064,20 +1022,7 @@ numeric_airbnb_madrid.describe()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1516,20 +1461,7 @@ categorical_airbnb_madrid.describe()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1651,25 +1583,9 @@ for variable in list_categorical_columns: # recorremos las variable categóricas
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_39_0.png)
+![png]([Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_39_0.png](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20categ%C3%B3ricas.png)
     
-
-
-
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_39_1.png)
-    
-
-
-
-    
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_39_2.png)
-    
-
-
-
-    
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_39_3.png)
     
 
 
