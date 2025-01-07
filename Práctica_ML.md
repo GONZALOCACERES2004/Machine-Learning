@@ -1387,7 +1387,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_29_0.png)
+![png](Variables numéricas.png)
     
 
 
