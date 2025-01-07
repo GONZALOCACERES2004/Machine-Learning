@@ -1332,7 +1332,7 @@ plt.show()
 
 
     
-![Variables numéricas](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20num%C3%A9ricas.png)
+![Variables numéricas](./Variables%20num%C3%A9ricas.png)
     
 
 
@@ -1582,8 +1582,7 @@ for variable in list_categorical_columns: # recorremos las variable categóricas
 ```
 
 
-    
-![Variables categóricas](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20categ%C3%B3ricas.png)
+
 ![Variables categóricas](./Variables%20categ%C3%B3ricas.png)
     
     
@@ -1863,7 +1862,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_52_1.png)
+![png](./Pr%C3%A1ctica_ML_52_1.png)
   
 
 
@@ -1932,7 +1931,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_53_0.png)
+![png](./Lasso_calculado%20con%20Price.png)
     
 
 
@@ -1968,7 +1967,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_55_1.png)
+![png](./Pr%C3%A1ctica_ML_55_1.png)
     
 
 
@@ -2041,7 +2040,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_57_0.png)
+![png](./Bagging_calculado%20con%20Price.png)
     
 
 
@@ -2074,7 +2073,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_59_1.png)
+![png](./Pr%C3%A1ctica_ML_59_1.png)
     
 
 
@@ -2144,7 +2143,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_61_0.png)
+![png](./RandomForest_calculado%20con%20Price.png)
     
 
 
@@ -2251,7 +2250,7 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_64_0.png)
+![png](./Kfold_calculado%20con%20Price.png)
     
 
 
@@ -2304,6 +2303,6 @@ plt.show()
 
 
     
-![png](Pr%C3%A1ctica_ML_files/Pr%C3%A1ctica_ML_65_0.png)
+![png](./Pr%C3%A1ctica_ML_65_0.png)
     
 
