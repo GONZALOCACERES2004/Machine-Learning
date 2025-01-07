@@ -1387,7 +1387,7 @@ plt.show()
 
 
     
-![png]([Variables numéricas.png)](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20num%C3%A9ricas.png)
+![Variables numéricas](https://github.com/GONZALOCACERES2004/Machine-Learning/blob/main/Variables%20num%C3%A9ricas.png)
     
 
 
