@@ -43,3 +43,21 @@ La reducción de 75 a 30 características simplificó el modelo y mejoró su cap
 - Futuros estudios podrían explorar la segmentación del mercado o incorporar datos externos como eventos locales o tendencias turísticas.
 
 En resumen, este análisis proporciona una comprensión profunda de los factores que influyen en los precios de Airbnb, ofreciendo una herramienta valiosa para la toma de decisiones y sentando las bases para futuros análisis y mejoras en la predicción de precios en el mercado de alojamientos de corto plazo.
+
+[Ver Código Aplicación de Machine Learning](Práctica_ML.md)
+
+Puedes descargar el código completo para la compresión de imágenes utilizando SVD aquí:
+
+[Descargar Código Aplicación de Machine Learning](Práctica_ML.ipynb)
+
+## Cómo Usar
+
+1.  Ejecuta el archivo Python.
+
+Se muestran imágenes de ejemplo (utilizando una columna generada con el log de Price)
+
+![Imagen de Ejemplo](Lasso_calculado%20con%20log_price.png)
+![Imagen de Ejemplo](Bagging_calculado%20con%20log_price.png)
+![Imagen de Ejemplo](RandomForest_calculado%20con%20log_price.png)
+![Imagen de Ejemplo](Kfold_calculado%20con%20log_price.png)
+
