@@ -46,13 +46,6 @@ En resumen, este análisis proporciona una comprensión profunda de los factores
 
 [Ver Código Aplicación de Machine Learning](Práctica_ML.md)
 
-Puedes descargar el código completo para la compresión de imágenes utilizando SVD aquí:
-
-[Descargar Código Aplicación de Machine Learning](Práctica_ML.ipynb)
-
-## Cómo Usar
-
-1.  Ejecuta el archivo Python.
 
 Se muestran imágenes de ejemplo (utilizando una columna generada con el log de Price)
 
